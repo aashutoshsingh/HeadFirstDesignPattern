@@ -6,7 +6,8 @@ namespace HeadFirstDesignPattern
     {
         static void Main(string[] args)
         {
-            WeatherStation.Main(null);
+            //WeatherStation.Main(null);
+            Chapter3_DecoratorPattern.StarbuzzCoffee.Main(args);
         }
     }
 }

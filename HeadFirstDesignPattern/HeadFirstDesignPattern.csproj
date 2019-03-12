@@ -6,8 +6,4 @@
     <StartupObject>HeadFirstDesignPattern.Program</StartupObject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Chapter3-DecoratorPattern\" />
-  </ItemGroup>
-
 </Project>
