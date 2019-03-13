@@ -7,7 +7,8 @@ namespace HeadFirstDesignPattern
         static void Main(string[] args)
         {
             //WeatherStation.Main(null);
-            Chapter3_DecoratorPattern.StarbuzzCoffee.Main(args);
+            //Chapter3_DecoratorPattern.StarbuzzCoffee.Main(args);
+            Chapter4_FactoryPattern.PizzaTestDrive.Main(args);
         }
     }
 }
