@@ -8,7 +8,8 @@ namespace HeadFirstDesignPattern
         {
             //WeatherStation.Main(null);
             //Chapter3_DecoratorPattern.StarbuzzCoffee.Main(args);
-            Chapter4_FactoryPattern.PizzaTestDrive.Main(args);
+            //Chapter4_FactoryPattern.PizzaTestDrive.Main(args);
+            Chapter6_CommandPattern.RemoteControlTest.Main(args);
         }
     }
 }
